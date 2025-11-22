@@ -268,6 +268,15 @@ div.container > header h1 {
     align-items: center !important;
     width: 100% !important;
     min-width: 0 !important;
+        text-decoration: none;
+    color: inherit;
+    cursor: pointer;
+}
+/* Hanya untuk Divisi  1 & 4 */
+.bidang-card4 {
+    background-size: 93%;}
+.bidang-card {
+    background-size: 87%;
 }
 
 /* Tetapkan background masing-masing */
